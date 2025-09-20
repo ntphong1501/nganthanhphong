@@ -3,10 +3,10 @@
 
 <div align='center'>
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-Phan%20Xu%C3%A2n%20Quang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/phanxuanquang/)
-  [![Mail](https://img.shields.io/badge/Facebook-Phan%20Xu%C3%A2n%20Quang-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/pxquang.2002)
-  [![Mail](https://img.shields.io/badge/Discord-Hack%20Ki%E1%BA%BFm%20S%C4%A9-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/hackkiemsi)
-  [![Mail](https://img.shields.io/badge/Gmail-phanxuanquang2@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:phanxuanquang2@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-Phan%20Xu%C3%A2n%20Quang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ntphong1501/)
+  [![Mail](https://img.shields.io/badge/Facebook-Phan%20Xu%C3%A2n%20Quang-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntphong004)
+  [![Mail](https://img.shields.io/badge/Discord-Hack%20Ki%E1%BA%BFm%20S%C4%A9-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/ntphong04)
+  [![Mail](https://img.shields.io/badge/Gmail-phanxuanquang2@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:nt.phong150104@gmail.com)
   
 </div>
 
