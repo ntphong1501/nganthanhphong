@@ -4,8 +4,9 @@
 <div align='center'>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-Ng%C3%A0n%20Thanh%20Phong-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ntphong1501/)
-  [![Mail](https://img.shields.io/badge/Facebook-Ng%C3%A0n%20Thanh%20Phong-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntphong004)
-  [![Mail](https://img.shields.io/badge/Discord-Ntphong04-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/ntphong04)
+  [![Facebook](https://img.shields.io/badge/Facebook-Ng%C3%A0n%20Thanh%20Phong-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntphong004)
+  [![Discord](https://img.shields.io/badge/Discord-Ntphong04-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/ntphong04)
+  [![Telegram](https://img.shields.io/badge/Telegram-ntphong04-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/ntphong04)
   [![Mail](https://img.shields.io/badge/Gmail-nt.phong150104@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:nt.phong150104@gmail.com)
   
 </div>
