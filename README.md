@@ -1,5 +1,5 @@
         
-<h1 align='center'><samp><strong>Hello World, welcome to my innovation lab!</strong></samp></h1>
+<h1 align='center'><samp><strong>Hello World, welcome to my Github!</strong></samp></h1>
 
 <div align='center'>
   
@@ -15,11 +15,10 @@
 
 <p align='left'>
 
-I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric solutions. 
-    
-Driven by the passion to make meaningful differences, I do want to craft solutions that positively impact the humanity using my creativity. My journey is fueled by a relentless creativity to harness the power of technology in order to effect tangible changes in the world.
+I’m a Vietnamese student who loves optimizing everyday life through technology, with a strong passion for building powerful, user-focused solutions.
 
-I am always open to exciting job opportunities and innovative projects in the areas of generative AI and SaaS development. You are welcome to reach out to me through the contact details listed above for further discussion.
+Driven by the desire to make a meaningful difference, I strive to create solutions that have a positive impact on humanity by combining creativity with technology. 
+My journey is fueled by relentless curiosity and innovation, leveraging the power of technology to bring about tangible change in the world.
 </p>
 
 
