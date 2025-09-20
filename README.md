@@ -3,10 +3,10 @@
 
 <div align='center'>
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-Phan%20Xu%C3%A2n%20Quang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ntphong1501/)
-  [![Mail](https://img.shields.io/badge/Facebook-Phan%20Xu%C3%A2n%20Quang-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntphong004)
-  [![Mail](https://img.shields.io/badge/Discord-Hack%20Ki%E1%BA%BFm%20S%C4%A9-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/ntphong04)
-  [![Mail](https://img.shields.io/badge/Gmail-phanxuanquang2@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:nt.phong150104@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-Ng%C3%A0n%20Thanh%20Phong-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ntphong1501/)
+  [![Mail](https://img.shields.io/badge/Facebook-Ng%C3%A0n%20Thanh%20Phong-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntphong004)
+  [![Mail](https://img.shields.io/badge/Discord-Ntphong04-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/ntphong04)
+  [![Mail](https://img.shields.io/badge/Gmail-nt.phong150104@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:nt.phong150104@gmail.com)
   
 </div>
 
@@ -22,7 +22,4 @@ I am always open to exciting job opportunities and innovative projects in the ar
 </p>
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
-
-<a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=phanxuanquang&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
-<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
 
