@@ -22,5 +22,4 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 I am always open to exciting job opportunities and innovative projects in the areas of generative AI and SaaS development. You are welcome to reach out to me through the contact details listed above for further discussion.
 </p>
 
-<h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
